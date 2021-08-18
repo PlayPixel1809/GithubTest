@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class Translate : MonoBehaviour
 {
+	public GameObject temp;
+
 	public float xAxisSpeed;
 	public float yAxisSpeed;
 	public float zAxisSpeed;
